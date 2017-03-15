@@ -8,3 +8,4 @@ Escape Room for t Collectief in Delft 2017
 - Attach the USB-cable
 - Run the main.exe
 - The program will ask for a COM-port: you'll have to guess; it is probably below the 6
+- If you guess wrong, you'll have to restart and try again
